@@ -16,7 +16,7 @@ setup(
     description="A package for preprocessing pupil data",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/pupil_preprocess",
+    url="https://github.com/sofeishang/preprocessing_pupillometry",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
